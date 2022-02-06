@@ -9,6 +9,8 @@ sites:
     url: https://www.github.com
   - name: Portfolio and Blog
     url: https://www.blastkode.com
+  - name: Acosta Automation
+    url: http://acosta-automation.herokuapp.com/
 assignees:
   - yacosta738
 status-website:
