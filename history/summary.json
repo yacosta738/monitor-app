@@ -40,7 +40,7 @@
     "url": "https://www.blastkode.com",
     "icon": "https://favicons.githubusercontent.com/www.blastkode.com",
     "slug": "portfolio-and-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "Acosta Automation",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/acosta-automation.herokuapp.com",
     "slug": "acosta-automation",
     "status": "up",
-    "uptime": "87.60%",
+    "uptime": "87.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.60%",
-    "uptimeMonth": "87.60%",
-    "uptimeYear": "87.60%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "87.89%",
+    "uptimeYear": "87.89%",
     "time": 167,
     "timeDay": 258,
     "timeWeek": 167,
