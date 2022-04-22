@@ -1,7 +1,7 @@
 url: https://acosta-automation.herokuapp.com/webhook/f85d7cd5-bb1f-482b-9162-b038582436de
-status: up
-code: 200
-responseTime: 354
-lastUpdated: 2022-04-21T23:20:42.246Z
+status: down
+code: 404
+responseTime: 18512
+lastUpdated: 2022-04-22T04:23:41.843Z
 startTime: Sun Feb 06 2022 17:23:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
