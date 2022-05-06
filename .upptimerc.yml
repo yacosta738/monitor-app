@@ -9,6 +9,8 @@ sites:
     url: https://www.github.com
   - name: Portfolio and Blog
     url: https://www.yunielacosta.com
+  - name: Portfolio and Blog (github actions)
+  - url: https://yacosta738.github.io
   - name: Acosta Automation
     url: https://acosta-automation.herokuapp.com/webhook/f85d7cd5-bb1f-482b-9162-b038582436de
 assignees:
