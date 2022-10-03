@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 142,
+    "timeDay": 82,
     "timeWeek": 83,
-    "timeMonth": 93,
+    "timeMonth": 94,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
     "name": "Github",
     "url": "https://www.github.com",
-    "icon": "https://favicons.githubusercontent.com/www.github.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.github.com.ico",
     "slug": "github",
     "status": "up",
     "uptime": "99.99%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 306,
-    "timeDay": 912,
-    "timeWeek": 516,
-    "timeMonth": 310,
+    "timeDay": 431,
+    "timeWeek": 463,
+    "timeMonth": 319,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2022-09-06": 23
@@ -40,7 +40,7 @@
   {
     "name": "Portfolio and Blog",
     "url": "https://www.yunielacosta.com",
-    "icon": "https://favicons.githubusercontent.com/www.yunielacosta.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.yunielacosta.com.ico",
     "slug": "portfolio-and-blog",
     "status": "up",
     "uptime": "99.77%",
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
     "time": 332,
-    "timeDay": 376,
-    "timeWeek": 297,
-    "timeMonth": 476,
+    "timeDay": 392,
+    "timeWeek": 279,
+    "timeMonth": 468,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2022-09-08": 46,
