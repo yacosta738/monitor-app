@@ -15,7 +15,9 @@
     "timeWeek": 169,
     "timeMonth": 129,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "Github",
