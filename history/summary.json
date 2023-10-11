@@ -6,7 +6,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -14,8 +14,10 @@
     "timeDay": 89,
     "timeWeek": 157,
     "timeMonth": 131,
-    "timeYear": 115,
-    "dailyMinutesDown": {}
+    "timeYear": 114,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "Github",
@@ -25,12 +27,12 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 57,
-    "timeWeek": 2809,
+    "timeWeek": 2413,
     "timeMonth": 900,
     "timeYear": 310,
     "dailyMinutesDown": {
