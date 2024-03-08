@@ -9,6 +9,10 @@ sites:
     url: https://www.github.com
   - name: Portfolio and Blog
     url: https://www.yunielacosta.com
+  - name: Lyra UI
+    url: https://lyraui.onrender.com
+  - name: Lyra
+    url: https://lyra-nwhm.onrender.com
 assignees:
   - yacosta738
 status-website:
@@ -18,7 +22,7 @@ status-website:
   baseUrl: /monitor-app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: Monitor App
+  name: Astrum Monitor App
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
