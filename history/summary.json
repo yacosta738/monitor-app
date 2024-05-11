@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 144,
-    "timeWeek": 102,
-    "timeMonth": 135,
+    "timeDay": 188,
+    "timeWeek": 100,
+    "timeMonth": 138,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 44,
-    "timeWeek": 188,
-    "timeMonth": 247,
+    "timeDay": 207,
+    "timeWeek": 184,
+    "timeMonth": 235,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2023-10-04": 21
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yunielacosta.com.ico",
     "slug": "portfolio-and-blog",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 95,
-    "timeWeek": 157,
-    "timeMonth": 225,
-    "timeYear": 249,
+    "timeDay": 249,
+    "timeWeek": 162,
+    "timeMonth": 224,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2024-03-16": 21
     }
