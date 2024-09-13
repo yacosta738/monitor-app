@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 85,
-    "timeWeek": 91,
-    "timeMonth": 101,
+    "timeDay": 100,
+    "timeWeek": 92,
+    "timeMonth": 102,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 113,
-    "timeWeek": 241,
-    "timeMonth": 210,
-    "timeYear": 286,
+    "time": 279,
+    "timeDay": 121,
+    "timeWeek": 221,
+    "timeMonth": 212,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2023-10-04": 21
     }
@@ -46,17 +46,16 @@
     "slug": "portfolio-and-blog",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 176,
-    "timeWeek": 281,
-    "timeMonth": 228,
-    "timeYear": 226,
+    "timeDay": 180,
+    "timeWeek": 272,
+    "timeMonth": 230,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-09-12": 7,
       "2024-03-16": 21
     }
   }
