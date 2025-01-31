@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 254,
-    "timeWeek": 167,
+    "timeDay": 80,
+    "timeWeek": 163,
     "timeMonth": 136,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -26,18 +26,16 @@
     "slug": "github",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 143,
-    "timeWeek": 171,
-    "timeMonth": 235,
+    "timeDay": 87,
+    "timeWeek": 155,
+    "timeMonth": 230,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2025-01-30": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio and Blog",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 176,
-    "timeWeek": 286,
-    "timeMonth": 234,
+    "timeDay": 199,
+    "timeWeek": 259,
+    "timeMonth": 237,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2024-03-16": 21
