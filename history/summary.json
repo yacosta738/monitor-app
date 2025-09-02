@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 100,
-    "timeWeek": 88,
-    "timeMonth": 94,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "timeDay": 266,
+    "timeWeek": 131,
+    "timeMonth": 104,
+    "timeYear": 108,
+    "dailyMinutesDown": {
+      "2025-09-02": 0
+    }
   },
   {
     "name": "Github",
@@ -60,9 +62,9 @@
     "slug": "n8n-render",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "98.86%",
     "time": 1222,
     "timeDay": 1195,
@@ -70,7 +72,7 @@
     "timeMonth": 1411,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-09-02": 76,
+      "2025-09-02": 67,
       "2025-09-01": 88,
       "2025-08-31": 84,
       "2025-08-30": 118,
