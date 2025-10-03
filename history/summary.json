@@ -40,19 +40,19 @@
     "url": "https://www.yunielacosta.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yunielacosta.com.ico",
     "slug": "portfolio-and-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 301,
-    "timeWeek": 229,
+    "timeDay": 285,
+    "timeWeek": 231,
     "timeMonth": 241,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 13
     }
   },
   {
