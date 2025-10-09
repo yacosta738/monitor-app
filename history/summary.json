@@ -42,30 +42,28 @@
     "slug": "portfolio-and-blog",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 306,
     "timeWeek": 264,
     "timeMonth": 239,
     "timeYear": 228,
-    "dailyMinutesDown": {
-      "2025-10-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "n8n render",
     "url": "https://n8n-k4aj.onrender.com/webhook/ad4ca19a-4b03-4906-8e57-a4a861bfbbaf",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-k4aj.onrender.com.ico",
     "slug": "n8n-render",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "89.29%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "89.28%",
     "uptimeWeek": "85.60%",
     "uptimeMonth": "90.27%",
-    "uptimeYear": "97.77%",
+    "uptimeYear": "97.78%",
     "time": 1313,
     "timeDay": 1081,
     "timeWeek": 1203,
@@ -131,7 +129,7 @@
       "2025-04-03": 101,
       "2025-04-02": 74,
       "2025-04-01": 64,
-      "2025-03-31": 67
+      "2025-03-31": 30
     }
   }
 ]
