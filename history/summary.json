@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yunielacosta.com.ico",
     "slug": "portfolio-and-blog",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.98%",
     "time": 222,
     "timeDay": 236,
     "timeWeek": 251,
     "timeMonth": 239,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-10-10": 0
+      "2025-10-10": 117
     }
   },
   {
@@ -60,12 +60,12 @@
     "url": "https://n8n-k4aj.onrender.com/webhook/ad4ca19a-4b03-4906-8e57-a4a861bfbbaf",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-k4aj.onrender.com.ico",
     "slug": "n8n-render",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "92.56%",
+    "status": "down",
+    "uptime": "97.79%",
+    "uptimeDay": "92.55%",
     "uptimeWeek": "85.58%",
     "uptimeMonth": "90.31%",
-    "uptimeYear": "97.77%",
+    "uptimeYear": "97.79%",
     "time": 1309,
     "timeDay": 1013,
     "timeWeek": 1169,
@@ -131,7 +131,7 @@
       "2025-04-04": 73,
       "2025-04-03": 101,
       "2025-04-02": 74,
-      "2025-04-01": 64
+      "2025-04-01": 28
     }
   }
 ]
