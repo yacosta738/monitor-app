@@ -60,18 +60,19 @@
     "url": "https://n8n-k4aj.onrender.com/webhook/ad4ca19a-4b03-4906-8e57-a4a861bfbbaf",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-k4aj.onrender.com.ico",
     "slug": "n8n-render",
-    "status": "up",
-    "uptime": "97.59%",
+    "status": "down",
+    "uptime": "97.60%",
     "uptimeDay": "93.39%",
-    "uptimeWeek": "89.56%",
+    "uptimeWeek": "89.68%",
     "uptimeMonth": "89.96%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.60%",
     "time": 1343,
     "timeDay": 1014,
     "timeWeek": 1765,
     "timeMonth": 1417,
     "timeYear": 1343,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-26": 95,
       "2025-10-25": 141,
       "2025-10-24": 156,
@@ -131,8 +132,7 @@
       "2025-08-31": 84,
       "2025-08-30": 118,
       "2025-08-29": 90,
-      "2025-08-28": 123,
-      "2025-08-27": 26
+      "2025-08-28": 123
     }
   }
 ]
