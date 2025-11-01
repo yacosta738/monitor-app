@@ -62,7 +62,7 @@
     "slug": "n8n-render",
     "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "93.40%",
+    "uptimeDay": "93.13%",
     "uptimeWeek": "91.51%",
     "uptimeMonth": "89.45%",
     "uptimeYear": "97.64%",
@@ -72,7 +72,7 @@
     "timeMonth": 1353,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-11-01": 0,
+      "2025-11-01": 4,
       "2025-10-31": 95,
       "2025-10-30": 69,
       "2025-10-29": 68,
