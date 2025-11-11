@@ -1,7 +1,7 @@
 url: https://n8n-k4aj.onrender.com/webhook/ad4ca19a-4b03-4906-8e57-a4a861bfbbaf
-status: up
-code: 200
-responseTime: 1256
-lastUpdated: 2025-11-11T13:44:47.741Z
+status: down
+code: 404
+responseTime: 200
+lastUpdated: 2025-11-11T14:10:14.743Z
 startTime: 2025-03-18T10:06:11.710Z
 generator: Upptime <https://github.com/upptime/upptime>
