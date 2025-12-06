@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 212,
-    "timeWeek": 133,
-    "timeMonth": 110,
+    "timeDay": 260,
+    "timeWeek": 150,
+    "timeMonth": 114,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-12-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 230,
-    "timeWeek": 334,
-    "timeMonth": 275,
+    "time": 237,
+    "timeDay": 666,
+    "timeWeek": 408,
+    "timeMonth": 290,
     "timeYear": 245,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.93%",
     "time": 226,
-    "timeDay": 204,
-    "timeWeek": 252,
-    "timeMonth": 220,
+    "timeDay": 157,
+    "timeWeek": 213,
+    "timeMonth": 218,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-11-18": 111,
