@@ -22,18 +22,20 @@
     "url": "https://www.github.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.github.com.ico",
     "slug": "github",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 121,
-    "timeWeek": 262,
-    "timeMonth": 292,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 1343,
+    "timeWeek": 550,
+    "timeMonth": 360,
+    "timeYear": 251,
+    "dailyMinutesDown": {
+      "2025-12-11": 0
+    }
   },
   {
     "name": "Portfolio and Blog",
